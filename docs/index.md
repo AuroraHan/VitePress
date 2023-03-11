@@ -10,8 +10,6 @@ hero:
     src: /logo.png
     alt: 茂茂物语
   actions:
-    - text: 茂茂物语
-      link: https://notes.fe-mm.com
     - text: 前端工具
       link: /nav/
       theme: alt
